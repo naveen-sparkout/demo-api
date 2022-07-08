@@ -1,0 +1,31 @@
+{
+    "appTitle": "Node Project",
+    "env": "staging",
+    "PORT": 3000,
+    "baseUrl": "http://www.sparkouttech.com",
+    "mongodb": {
+        "host": "mongodb://127.0.0.1:27017/",
+        "uri": "mongodb://127.0.0.1:27017/BOILERPLATE-DB",
+        "db_name": "BOILERPLATE-DB",
+        "credentials": {
+            "username": "",
+            "password": ""
+        },
+        "enableMongoDebugging": false
+    },
+    "aws": {
+        "s3": {
+            "secretAccessKey": "",
+            "accessKeyId": "",
+            "region": "ap-northeast-2",
+            "bucket": "boiler-plate",
+            "identityDocumentsDirectory": "identityDocuments/1000X1000",
+            "profileImageDirectory": "profileImages/1000X1000",
+            "profileImageResizeDirectory": "profileImages/100X100/",
+            "profileImageMediumResizeDirectory": "profileImages/300X300/"
+        }
+    },
+    "hereMapApiKey": ""
+   
+
+}

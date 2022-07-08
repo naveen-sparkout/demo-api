@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app.js"],"names":["app"],"mappings":";;;;;;;;;AAAA;;eAEeA,mB","sourcesContent":["import app from \"./config/express\";\r\n\r\nexport default app;"],"file":"app.js"}

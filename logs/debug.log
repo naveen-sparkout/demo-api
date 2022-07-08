@@ -1,0 +1,39 @@
+[2022-06-08 10:38:36] [32minfo[39m:  loaded config file:development 
+[2022-06-08 10:38:36] [32minfo[39m:  Try to Connect MongoDb: mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-06-08 10:43:08] [32minfo[39m:  loaded config file:development 
+[2022-06-08 10:43:08] [32minfo[39m:  Try to Connect MongoDb: mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-06-08 10:43:08] [32minfo[39m:  mongoose connection open to mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-06-08 10:43:08] [32minfo[39m:  models are loading ... 
+[2022-06-08 10:43:08] [32minfo[39m:  /home/naveen-sparkout/Documents/backend/nodejs-express-rest-api-boilerplate-main/lib/app/modules/users/users/models/user.model.js 
+[2022-06-08 10:43:08] [32minfo[39m:  models are loading ... 
+[2022-06-08 10:43:08] [32minfo[39m:  error messages are loading ... 
+[2022-06-08 10:43:08] [32minfo[39m:  routes are loading ... 
+[2022-06-08 10:43:08] [32minfo[39m:  /home/naveen-sparkout/Documents/backend/nodejs-express-rest-api-boilerplate-main/lib/app/modules/users/users/routes/v1/user.routes.js is loaded 
+[2022-06-08 10:43:08] [32minfo[39m:  [1m[32mServer is listening on port 3000[39m[22m 
+[2022-06-08 11:28:46] [31merror[39m:  {"status":404} 
+[2022-06-08 11:29:29] [31merror[39m:  {"status":404} 
+[2022-06-08 11:29:36] [31merror[39m:  {"status":404} 
+[2022-07-08 10:20:30] [32minfo[39m:  loaded config file:development 
+[2022-07-08 10:20:30] [32minfo[39m:  Try to Connect MongoDb: mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-07-08 10:20:30] [32minfo[39m:  mongoose connection open to mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-07-08 10:20:30] [32minfo[39m:  models are loading ... 
+[2022-07-08 10:20:30] [32minfo[39m:  /home/naveen-sparkout/Documents/backend/nodejs-express-rest-api-boilerplate-main/lib/app/modules/users/users/models/user.model.js 
+[2022-07-08 10:20:30] [32minfo[39m:  models are loading ... 
+[2022-07-08 10:20:30] [32minfo[39m:  error messages are loading ... 
+[2022-07-08 10:20:30] [32minfo[39m:  routes are loading ... 
+[2022-07-08 10:20:30] [32minfo[39m:  /home/naveen-sparkout/Documents/backend/nodejs-express-rest-api-boilerplate-main/lib/app/modules/users/users/routes/v1/user.routes.js is loaded 
+[2022-07-08 10:20:30] [32minfo[39m:  [1m[32mServer is listening on port 3000[39m[22m 
+[2022-07-08 10:20:47] [31merror[39m:  {"status":404} 
+[2022-07-08 10:20:58] [31merror[39m:  {"status":404} 
+[2022-07-08 10:21:17] [31merror[39m:  {"status":404} 
+[2022-07-08 10:21:17] [31merror[39m:  {"status":404} 
+[2022-07-08 10:36:13] [32minfo[39m:  loaded config file:development 
+[2022-07-08 10:36:13] [32minfo[39m:  Try to Connect MongoDb: mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-07-08 10:36:13] [32minfo[39m:  mongoose connection open to mongodb://127.0.0.1:27017/BOILERPLATE-DB 
+[2022-07-08 10:36:13] [32minfo[39m:  models are loading ... 
+[2022-07-08 10:36:13] [32minfo[39m:  /home/naveen-sparkout/Documents/backend/nodejs-express-rest-api-boilerplate-main/lib/app/modules/users/users/models/user.model.js 
+[2022-07-08 10:36:13] [32minfo[39m:  models are loading ... 
+[2022-07-08 10:36:13] [32minfo[39m:  error messages are loading ... 
+[2022-07-08 10:36:13] [32minfo[39m:  routes are loading ... 
+[2022-07-08 10:36:13] [32minfo[39m:  /home/naveen-sparkout/Documents/backend/nodejs-express-rest-api-boilerplate-main/lib/app/modules/users/users/routes/v1/user.routes.js is loaded 
+[2022-07-08 10:36:13] [32minfo[39m:  [1m[32mServer is listening on port 3000[39m[22m 
